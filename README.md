@@ -1,7 +1,8 @@
 # QQSM
-# Título del Proyecto
+# QQSM
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Quien quiere ser millonario (QQSM)_
+– el juego que te hace millonario_
 
 ## Comenzando 🚀
 
