@@ -2,7 +2,9 @@
 
 _Quien quiere ser millonario (QQSM)_
 
-  el juego que te hace millonario
+    el juego que te hace millonario.
+    
+Es un programa maqueta del famoso juego televisivo Quien Quiere Ser Millonario, el cual está soportado en consola. El objetivo principal del programa es mostrar funcionalidad y cumplimientos de requerimientos de los clientes, en este caso, para el reto técnico de Sofka Technologies.
 
 ## Comenzando 🚀
 
