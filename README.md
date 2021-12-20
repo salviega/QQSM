@@ -8,8 +8,7 @@ Es un programa maqueta del famoso juego televisivo Quien Quiere Ser Millonario, 
 
 ## Comentarios de documentación
 
-El programa se ejecuta corrinedo el script "main". Es posible que para su ejecutación sea necesario descargar los paquetes respectivos y instalar el licenciamiento de python. Adicional a esto es programa debe correr con total seguridad y funcionalidad. No es necesario manipular ni ingresar a los demá
-s documentos puesto que se encuentra el archivo "main" conectado a los otros scripts. 
+El programa se ejecuta corrinedo el script "main". Es posible que para su ejecutación sea necesario descargar los paquetes respectivos y instalar el licenciamiento de python. Adicional a esto, el programa debe correr con total seguridad y funcionalidad. No es necesario manipular los otros documentos puesto que el archivo "main" está bien cohesionado. 
 
 ## Construido
 
