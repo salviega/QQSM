@@ -146,7 +146,7 @@ while x:
         answer_jugador = input('      Hubo un error, ingresa nuevamente la letra que corresponda a tu respuesta: ')
         print('     \n')
 
-if (participante.bolsa == 1000000):
+if (participante.bolsa == 0):
 
     db.modificar_participante(participante)
     print('     En este instante te muestro tu registro final \n')
@@ -183,6 +183,7 @@ while x:
         time.sleep(1)
         print('     Pregunta número tres: Historia \n')
         participante = categoria.categorias(3, participante)
+    
         time.sleep(1)
         x = False
     elif (answer_jugador == 'n' or answer_jugador == 'N'):
@@ -211,7 +212,7 @@ while x:
         answer_jugador = input('      Hubo un error, ingresa nuevamente la letra que corresponda a tu respuesta: ')
         print('     \n')
 
-if (participante.bolsa == 2000000):
+if (participante.bolsa == 0):
 
     db.modificar_participante(participante)
     print('     En este instante te muestro tu registro final \n')
@@ -276,7 +277,7 @@ while x:
         answer_jugador = input('      Hubo un error, ingresa nuevamente la letra que corresponda a tu respuesta: ')
         print('     \n')
 
-if (participante.bolsa == 3000000):
+if (participante.bolsa == 0):
 
     db.modificar_participante(participante)
     print('     En este instante te muestro tu registro final \n')
@@ -341,7 +342,7 @@ while x:
         answer_jugador = input('      Hubo un error, ingresa nuevamente la letra que corresponda a tu respuesta: ')
         print('     \n')
 
-if (participante.bolsa == 7000000):
+if (participante.bolsa == 0):
 
     db.modificar_participante(participante)
     print('     En este instante te muestro tu registro final \n')
