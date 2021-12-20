@@ -1,6 +1,7 @@
 # QQSM
 
 _Quien quiere ser millonario (QQSM)_
+
   el juego que te hace millonario
 
 ## Comenzando 🚀
